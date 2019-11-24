@@ -1,0 +1,18 @@
+a {
+ font-weight: bold; color: blue;} 
+a:link {
+  text-decoration: none;}
+a:visited {
+  color: green;}
+body {
+    min-width: 400px;
+  margin: 20px;
+  font-family: Arial, Verdana, sans-serif;
+  color: #111111;
+  background-color: #fcfcfc;}
+header, footer {
+  text-align: center;}
+footer {
+  font-size: 12px;}
+.menu {
+visibility: hidden;}
